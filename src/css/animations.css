@@ -1,0 +1,63 @@
+@keyframes introFondo4 {
+    0%   {background-position: 100vw 0;}
+    70%  {background-position: 5vw 0;}
+    100% {background-position: 10vw 0;}
+}
+@keyframes introfondo3 {
+    0%   {background-position: 0 100vh;}
+    70%  {background-position: 0 45vh;}
+    100% {background-position: 0 50vh;}
+}
+@keyframes introfondo3-mobile {
+    0%   {background-position: 0 100vh;}
+    70%  {background-position: 0 15vh;}
+    100% {background-position: 0 35vh;}
+}
+@keyframes introFondo2 {
+    0%   {background-position: 0 -125vh;}
+    70%  {background-position: 0 -20vh;}
+    100% {background-position: 0 -35vh;}
+}
+@keyframes introFondo1 {
+    0%   {background-position: 100vw 0;}
+    70%  {background-position: 20vw 0;}
+    100% {background-position: 25vw 0;}
+}
+@keyframes introFondo1-mobile {
+    0%   {background-position: 0 100vh;}
+    70%  {background-position: 0 20vh;}
+    100% {background-position: 0 35vh;}
+}
+@keyframes introFondo2-mobile {
+    0%   {background-position: 0 -100vh;}
+    70%  {background-position: 0 -20vh;}
+    100% {background-position: 0 -35vh;}
+}
+@keyframes closeFondo2 {
+    100% {background-position: 0 -35vh;}
+    40%  {background-position: 0 0;}
+    60%  {background-position: 0 0;}
+    100% {background-position: 0 -45vh;}
+}
+@keyframes closeFondo3 {
+    100% {background-position: 0 50vh;}
+    40%  {background-position: 0 20vh;}
+    60%  {background-position: 0 20vh;}
+    100% {background-position: 0 60vh;}
+}
+@keyframes closeFondo2-mobile {
+    0% {background-position: 0 -35vh;}
+    40%  {background-position: 0 0;}
+    60%  {background-position: 0 0;}
+    100% {background-position: 0 -35vh;}
+}
+@keyframes closeFondo3-mobile {
+    100% {background-position: 0 35vh;}
+    40%  {background-position: 0 10vh;}
+    60%  {background-position: 0 10vh;}
+    100% {background-position: 0 35vh;}
+}
+@keyframes fadeIn {
+    0%   {opacity: 0;}
+    100% {opacity: 1;}
+}
